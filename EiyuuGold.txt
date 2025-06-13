@@ -1,182 +1,9 @@
-
 Jogo :
 
 Steam : Eiyu*Senki - The World Conquest
 https://store.steampowered.com/app/691770/EiyuSenki_The_World_Conquest/
 Steam : Eiyu*Senki Gold - A New Conquest
 https://store.steampowered.com/app/1518430/EiyuSenki_Gold__A_New_Conquest/
-
-Conquistas :
-
-The Master of the World
-Obtained all trophies.	
-12.37%
-RARE
-Platinum
-	I Am Invincible
-Emerged victorious from Shambhala	
-12.63%
-RARE
-Gold
-	The World Unified
-Defeated the Illuminati and brought peace to the world...?	
-23.11%
-UNCOMMON
-Gold
-	Together Forever
-Watched the True Ending	
-30.81%
-UNCOMMON
-Gold
-	They Are All Friends of Mine
-Sided with all characters.	
-32.95%
-UNCOMMON
-Gold
-	Money isn't Everything!
-Didn't use money to buy USA	
-39.14%
-UNCOMMON
-Bronze
-	Britannia Conquered
-Conquered Britannia	
-39.90%
-UNCOMMON
-Silver
-	Uruk Conquered
-Conquered Uruk	
-41.04%
-UNCOMMON
-Bronze
-	Dark Realm Conquered
-Conquered the Dark Realm	
-41.16%
-UNCOMMON
-Bronze
-	Babylonia Conquered
-Conquered Babylonia	
-41.16%
-UNCOMMON
-Bronze
-	Sasaki Kojirou
-Sasaki Kojirou sided with the Zipang Army	
-41.54%
-UNCOMMON
-Bronze
-	Russia Conquered
-Conquered Russia	
-42.30%
-UNCOMMON
-Bronze
-	EU Conquered
-Conquered the EU	
-42.93%
-UNCOMMON
-Bronze
-	Ultra Rich
-Obtained more than 1,000,000 gold	
-43.06%
-UNCOMMON
-Gold
-	Southern America Conquered
-Conquered Southern America in the New World	
-45.83%
-UNCOMMON
-Bronze
-	Super Rich
-Obtained more than 500,000 gold	
-45.96%
-UNCOMMON
-Silver
-	Egypt Conquered
-Conquered Egypt	
-46.46%
-UNCOMMON
-Bronze
-	Can't Get My Beloved Ones Hurt
-Won a battle with only the protagonist fighting.	
-47.22%
-UNCOMMON
-Silver
-	Vinland Conquered
-Conquered Vinland	
-47.60%
-UNCOMMON
-Bronze
-	Macedonia Conquered
-Conquered Macedonia	
-48.23%
-UNCOMMON
-Bronze
-	Northern America Conquered
-Conquered Northern America in the New World	
-49.37%
-UNCOMMON
-Bronze
-	Australia Conquered
-Conquered Australia	
-50.38%
-COMMON
-Bronze
-	Gentleman
-Won a battle that the protagonist joined, without him attacking even once.	
-51.89%
-COMMON
-Silver
-	Southern Hawaii Conquered
-Conquered Southern Hawaii	
-53.03%
-COMMON
-Bronze
-	Rich
-Obtained more than 100,000 gold	
-53.91%
-COMMON
-Bronze
-	South Seas Conquered
-Conquered the South Sea Colonies	
-54.80%
-COMMON
-Bronze
-	East Asia Unified
-Unified East Asia	
-58.46%
-COMMON
-Gold
-	India Conquered
-Conquered India	
-59.22%
-COMMON
-Bronze
-	Taika Empire Conquered
-Conquered Taika Empire	
-59.60%
-COMMON
-Bronze
-	Mongolia Conquered
-Conquered Mongolia	
-60.10%
-COMMON
-Bronze
-	Never Let Anyone Get Hurt
-Won a battle without anyone getting any damage	
-66.79%
-COMMON
-Bronze
-
-
-
-The First Victory / A primeira vitória
-Won the first battle / Vença a primeira batalha
-92.17% COMMON Bronze
-
-The Servant of Heaven / O servo do Céu
-The Protagonist joined the Zipang army / O Protagonista juntou-se ao exército Zipang	
-85.23% COMMON Bronze
-
-Zipang Unified / Zipang Unificado 
-Unified Zipang	/ Unificar Zipang
-71.84% COMMON Silver
 
 https://psnprofiles.com/trophies/4040-eiyuu-senki-the-world-conquest?order=rarity
 https://www.playstationtrophies.org/game/eiyuu-senki-world-conquest/guide/
@@ -191,13 +18,13 @@ Yamatai = CIdade de Zipang
 Yamato Takeru =
 Zipang = Ilha
 
-Manual História :
+Manual Histï¿½ria :
 
 This is a world where powerful nations wage war and mighty heroes face off against one another.
 The great nation of Brittannia seeks to unite the world through friendship and peaceful alliances. The European Union (EU) takes a cooperative stance, hoping to quelll the revolts that occur sporadically throughout their empire. Vinland, however, makes their business of the frequent wars throughout the world. The Eastern island nation of Zipang finds itself waist-deep in a swamp of internal conflicts that never seem to end.
 https://fruitbatfactory.com/eiyuusenki/manual.html
 
-Dicionário :
+Dicionï¿½rio :
 
 A
 ankles = tornozelos
